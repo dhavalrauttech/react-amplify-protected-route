@@ -1,1 +1,1 @@
-# react-amplify-protected-route
+# react-amplify-protected-route for authenticated routes
